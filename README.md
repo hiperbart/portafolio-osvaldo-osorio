@@ -1,7 +1,7 @@
 🧑‍💻 Portafolio Profesional — Osvaldo Osorio Avila
 
 
-**📌 Perfil Profesional
+📌 Perfil Profesional
 
 Administrador de Sistemas y Soporte TI Nivel 2 con enfoque en operaciones Microsoft 365, gestión de endpoints con Intune, seguridad en redes (pfSense, Suricata) y sistemas Windows/Linux. 
 
