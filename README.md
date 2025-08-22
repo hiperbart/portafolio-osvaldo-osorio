@@ -1,9 +1,10 @@
-🧑‍💻 Portafolio Profesional — Osvaldo Osorio Avila
+# 🧑‍💻 Portafolio Profesional — Osvaldo Osorio Avila
 
 
-📌 Perfil Profesional
 
-Administrador de Sistemas y Soporte TI Nivel 2 con enfoque en operaciones Microsoft 365, gestión de endpoints con Intune, seguridad en redes (pfSense, Suricata) y sistemas Windows/Linux. 
+#### 📌 Perfil Profesional
+
+Administrador de Sistemas y Soporte TI Nivel 2 con enfoque en operaciones Microsoft 365, gestión de endpoints con Intune, seguridad en redes (pfSense, Suricata) y sistemas Windows/Linux.
 
 Diplomado en Gestión Técnica de la Ciberseguridad y base sólida en ingeniería eléctrica orientada a continuidad operativa.
 
@@ -12,11 +13,12 @@ Experto en hardening, evaluaciones de seguridad y prácticas alineadas a ISO.
 Trabajo con metodologías ágiles (Lean/Scrum) y orientación a mejora continua.
 
 
-🛠️ Habilidades Técnicas
+
+#### 🛠️ Habilidades Técnicas
 
 Sistemas Operativos: Windows 11/10, Windows Server, Ubuntu Server, CentOS
 
-Cloud & Microsoft: Microsoft 365, Exchange Online, Intune (MDM/MAM), Entra ID (Azure AD)
+Cloud \& Microsoft: Microsoft 365, Exchange Online, Intune (MDM/MAM), Entra ID (Azure AD)
 
 Seguridad: Hardening, evaluaciones de seguridad, controles ISO, Suricata
 
@@ -31,16 +33,18 @@ Metodologías: Lean, Scrum, trabajo por KPIs
 Idiomas: Inglés intermedio (lectura y escritura)
 
 
-🧪 Proyecto Destacado: Laboratorio de Hardening en Linux
 
-Este repositorio incluye el archivo hardening.pdf, que documenta un laboratorio práctico de seguridad realizado sobre sistemas Linux. 
+#### 🧪 Proyecto Destacado: Laboratorio de Hardening en Linux
+
+Este repositorio incluye el archivo hardening.pdf, que documenta un laboratorio práctico de seguridad realizado sobre sistemas Linux.
 
 En él se aplican técnicas de hardening, configuración de servicios, y validaciones alineadas a buenas prácticas de ciberseguridad.
 
 📄 ./hardening.pdf
 
 
-💼 Experiencia Profesional
+
+#### 💼 Experiencia Profesional
 
 Administrador de Sistemas — Transportes Yañez Ltda.
 
@@ -71,7 +75,8 @@ Jun 2017 – Jun 2023
 Elaboración de propuestas, análisis de datos y sistematización de información
 
 
-🎓 Formación Académica
+
+#### 🎓 Formación Académica
 
 Diplomado en Gestión Técnica de la Ciberseguridad — PUC (2024)
 
@@ -80,7 +85,8 @@ Ingeniería en Electricidad y Electrónica — IPCHILE (2021)
 Técnico de Soporte Computacional (SFIA) — ACTI (2017)
 
 
-📜 Certificaciones Relevantes
+
+#### 📜 Certificaciones Relevantes
 
 Google IT Support Professional Certificate (en curso, 2025)
 
@@ -99,3 +105,4 @@ HCIA y Huawei IP Network Specialist
 Administración de NGFW Huawei — Net Trainers
 
 ISO 9001 — Gestión de Calidad (2013)
+
